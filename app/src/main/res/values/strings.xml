@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">Bob Marley</string>
+    <string name="slide_1_desc">Get up, stand up, Stand up for your rights. Get up, stand up, Don\'t give up the fight.</string>
+
+    <string name="slide_2_title">Bob Marley</string>
+    <string name="slide_2_desc">Emancipate yourselves from mental slavery, none but ourselves can free our minds!</string>
+
+    <string name="slide_3_title">Bob Marley</string>
+    <string name="slide_3_desc">None but ourselves can free our minds.</string>
+
+    <string name="slide_4_title">Me</string>
+    <string name="slide_4_desc">F U C E K</string>
+
+
+</resources>
