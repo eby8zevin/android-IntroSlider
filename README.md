@@ -1,2 +1,4 @@
 # android-introslider
-Intro Slider - Android Studio reference https://badoystudio.com
+Intro Slider - Android Studio
+
+reference [badoystudio](https://badoystudio.com/membuat-intro-slider-keren-menggunakan-android-studio/)
